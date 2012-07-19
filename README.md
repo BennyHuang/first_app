@@ -25,6 +25,11 @@ more separate. Each of these packages can be used independently outside of
 Rails. You can read more about Action Pack in
 link:files/vendor/rails/actionpack/README.html.
 
+This is the first applicaton for
+[*RUby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com)
+
+
 
 == Getting Started
 
